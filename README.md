@@ -1,5 +1,7 @@
 # Hi there, I'm Leo 👋
 
+Welcome to my GitHub profile.
+
 <!--
 **leo-galleguillos/leo-galleguillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
